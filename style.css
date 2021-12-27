@@ -156,8 +156,7 @@ margin-bottom: 54px;
     }
   
 .video{
-    /*background-color: #EEEFF1;*/
-    background-color: aqua;
+    background-color: #EEEFF1;
     padding-top:112px;
     padding-bottom: 100px;
 }
@@ -196,7 +195,26 @@ margin-bottom: 54px;
 
 .footer{
     background-color: #34547A;
+    padding-top: 50px;
+    padding-left: 406px;
+    padding-bottom: 47px;
 }
 
+.f_name{
+font-weight: 500;
+font-size: 21px;
+line-height: 24px;
+display: flex;
+align-items: center;
+color: #FFFFFF;
+}
 
+.f_logo{
+font-size: 13px;
+line-height: 15px;
+display: flex;
+align-items: center;
+color: #FFFFFF;
+margin-top: 15px;
+}
 
