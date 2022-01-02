@@ -18,25 +18,24 @@ body{
     padding-top:45px;
 }
 
-nav{
+.menu{
     margin-bottom: 160px;
 }
 
-
-ul{
+.m_list{
     height: 18px;
 }
 
-
-ul li{
-    float:left;
+.m_item{
+    display: inline;
 }
 
 .first{
     color:#34547A;
+    padding-right: 42px;
 }
 
-ul li a{
+.second{
     color:black;
     padding-right: 42px;
     font-size: 16px;
