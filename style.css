@@ -1,4 +1,3 @@
-
 *{
     box-sizing: border-box;
 }
@@ -57,11 +56,9 @@ ul li a{
 .fs-text{
     width: 540px;
     left: 400px;
-    top: 362px;
     font-size: 16px;
     line-height: 26px;
     text-align: left;
-
     color: #727272;
     margin-bottom: 54px;
 }
@@ -70,7 +67,6 @@ ul li a{
     width: 225px;
     height: 65px;
     left: 399px;
-    top: 494px;
     background: #34547A;   
     color: #FFFFFF;
     font-size: 16px;
@@ -99,7 +95,6 @@ ul li a{
 .a-text{
     width: 540px;
     left: 690px;
-    top: 892px;
     font-size: 16px;
     line-height: 26px;
     text-align: center;
@@ -169,7 +164,7 @@ ul li a{
 .v-text{
     width: 540px;
     left: 690px;
-    top: 892px;
+  
     font-size: 16px;
     line-height: 26px;
     text-align: center;
