@@ -9,7 +9,6 @@ body{
 }
 
 .border{
-    background-color: red;
     width: 1110px;
     margin-left: auto;
     margin-right: auto;
@@ -133,6 +132,13 @@ ul li a{
     height: 50px;
     margin-right: 48px;
 }
+
+.item_last{
+    display: inline-block;
+    width: 141px;
+    height: 50px;
+}
+
 
 .leftimg{
     float:left; 
