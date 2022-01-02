@@ -42,7 +42,6 @@ ul li a{
     padding-right: 42px;
     font-size: 16px;
     line-height: 18px;
-    align-items: center;
     letter-spacing: 0.1em;
     text-decoration: none;
 }
@@ -50,7 +49,6 @@ ul li a{
 .fs-title{
     font-weight: 500;
     font-size: 48px;
-    align-items: center;
     color: #000000;
     margin-bottom: 45px;
     text-align: left;
@@ -62,7 +60,6 @@ ul li a{
     top: 362px;
     font-size: 16px;
     line-height: 26px;
-    align-items: center;
     text-align: left;
 
     color: #727272;
@@ -78,7 +75,6 @@ ul li a{
     color: #FFFFFF;
     font-size: 16px;
     line-height: 26px;
-    align-items: center;
     text-align: center;
     letter-spacing: 0.1em;
     margin-bottom: 141px;
@@ -96,7 +92,6 @@ ul li a{
     margin-bottom: 42px;
     margin-left: auto;
     margin-right: auto;
-    align-items: center;
     text-align: center;
     color: #000000;
 }
@@ -107,7 +102,6 @@ ul li a{
     top: 892px;
     font-size: 16px;
     line-height: 26px;
-    align-items: center;
     text-align: center;
     color: #727272;
     margin-left: auto;
@@ -144,7 +138,6 @@ ul li a{
     font-weight: 500;
     font-size: 21px;
     line-height: 24px;
-    align-items: center;
     margin-bottom: 5px;
     color:white;
     text-align: right;
@@ -153,7 +146,6 @@ ul li a{
 .item_text2{
     font-size: 16px;
     line-height: 18px;
-    align-items: center;
     color:white;
 }
   
@@ -170,7 +162,6 @@ ul li a{
     margin-bottom: 42px;
     margin-left: auto;
     margin-right: auto;
-    align-items: center;
     text-align: center;
     color: #000000;
     }
@@ -181,7 +172,6 @@ ul li a{
     top: 892px;
     font-size: 16px;
     line-height: 26px;
-    align-items: center;
     text-align: center;
     color: #727272;
     margin-left: auto;
@@ -200,15 +190,12 @@ ul li a{
     font-weight: 500;
     font-size: 21px;
     line-height: 24px;
- 
-    align-items: center;
     color: #FFFFFF;
 }
 
 .f_logo{
     font-size: 13px;
     line-height: 15px;
-    align-items: center;
     color: #FFFFFF;
     margin-top: 15px;
 }
